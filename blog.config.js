@@ -2,7 +2,7 @@ const BLOG = {
   title: 'SunBK201_Blog',
   author: 'SunBK201',
   email: 'sunbk201gm@gmail.com',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://www.sunbk201.com',
   description: 'Welcome to SunBK201_Blog.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
@@ -11,7 +11,7 @@ const BLOG = {
   darkBackground: '#000000', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
   since: 2020, // If leave this empty, current year will be used.
-  postsPerPage: 7,
+  postsPerPage: 10,
   sortByDate: true,
   showAbout: true,
   showArchive: true,
