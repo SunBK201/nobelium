@@ -43,6 +43,7 @@ html {
 }
 body::-webkit-scrollbar {
   width: 5px;
+  height: 5px;
 }
 body {
   scrollbar-width: thin;
@@ -56,7 +57,7 @@ body::-webkit-scrollbar-thumb {
 }
 
 ::selection {
-  background: rgba(45, 170, 219, 0.3);
+  background: #9c4d4d80 !important;
 }
 
 .wrapper {
