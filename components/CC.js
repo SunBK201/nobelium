@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import CC from '@/components/CC'
 
 const CC = () => {
   return (
