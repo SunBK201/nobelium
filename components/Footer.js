@@ -1,4 +1,6 @@
 import BLOG from '@/blog.config'
+import CC from '@/components/CC'
+
 const Footer = ({ fullWidth }) => {
   const d = new Date()
   const y = d.getFullYear()
