@@ -140,3 +140,8 @@ nav {
     @apply bg-day bg-opacity-90 dark:bg-night dark:bg-opacity-90;
   }
 }
+
+/* CC SVGs fill */
+svg.fill-gray-600.dark\:fill-gray-500 {
+  fill: #4b5563;
+}
