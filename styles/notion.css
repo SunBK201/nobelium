@@ -265,12 +265,3 @@ pre::-webkit-scrollbar-track, div::-webkit-scrollbar-track {
 .notion-text:first-child {
   @apply mt-2;
 }
-
-.notion-table-of-contents {
-  @apply my-2;
-}
-
-/* floating TOC */
-.notion-table-of-contents {
-  @apply xl:max-w-xs xl:max-h-[30rem] xl:fixed xl:z-10 xl:top-40 xl:inset-x-3/4 xl:overflow-y-auto;
-}
