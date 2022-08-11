@@ -179,9 +179,6 @@ pre::-webkit-scrollbar, div::-webkit-scrollbar {
 pre::-webkit-scrollbar-track, div::-webkit-scrollbar-track {
   background: #ffffff00 !important;
 }
-pre::-webkit-scrollbar-thumb, div::-webkit-scrollbar-thumb {
-  background-color: #b8b8b880 !important;
-}
 
 .notion-viewport {
   z-index: -10;
