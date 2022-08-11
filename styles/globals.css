@@ -141,6 +141,13 @@ nav {
   }
 }
 
+@media screen and (min-width: 700px) {
+  .px-5 {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+}
+
 @supports not (backdrop-filter: none) {
   .sticky-nav {
     backdrop-filter: none;
