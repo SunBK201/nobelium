@@ -273,5 +273,5 @@ pre::-webkit-scrollbar-track, div::-webkit-scrollbar-track {
 /* floating TOC */
 .notion-table-of-contents {
   @apply xl:max-w-xs xl:max-h-[32rem] xl:fixed xl:z-10 xl:top-40 xl:overflow-y-auto;
-  left: 77;
+  left: 77%;
 }
