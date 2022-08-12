@@ -285,4 +285,5 @@ pre::-webkit-scrollbar-track, div::-webkit-scrollbar-track {
 .notion-table-of-contents-item {
   width: 95%;
   font-size: 13px;
+  top: 12rem;
 }
