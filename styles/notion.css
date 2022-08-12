@@ -280,10 +280,10 @@ pre::-webkit-scrollbar-track, div::-webkit-scrollbar-track {
   left: 77%;
   opacity: 0.5;
   transition: 0.6s ease;
+  top: 12rem;
 }
 
 .notion-table-of-contents-item {
   width: 95%;
   font-size: 13px;
-  top: 12rem;
 }
