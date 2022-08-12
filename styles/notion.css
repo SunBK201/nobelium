@@ -279,5 +279,10 @@ pre::-webkit-scrollbar-track, div::-webkit-scrollbar-track {
   @apply xl:max-w-xs xl:max-h-[32rem] xl:fixed xl:z-10 xl:top-40 xl:overflow-y-auto;
   left: 77%;
   opacity: 0.5;
-  transition: 0.6 ease;
+  transition: 0.6s ease;
+}
+
+.notion-table-of-contents-item {
+  width: 95%;
+  font-size: 13px;
 }
