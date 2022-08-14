@@ -17,7 +17,7 @@ const Footer = ({ fullWidth }) => {
           <p>
             © {BLOG.author} {from === y || !from ? y : `${from} - ${y}`}
           </p>
-          <a href="https://hits.seeyoufarm.com" alt="hits" className="w-1/5"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fblog.sunbk201.site&count_bg=%231F1F1F&title_bg=%230B0A0A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+          <a hidden href="https://hits.seeyoufarm.com" alt="hits" className="w-1/5"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fblog.sunbk201.site&count_bg=%231F1F1F&title_bg=%230B0A0A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
           <CC />
         </div>
       </div>
