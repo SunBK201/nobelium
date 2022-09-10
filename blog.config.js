@@ -3,7 +3,7 @@ const BLOG = {
   author: 'SunBK201',
   email: 'sunbk201@sunbk201.com',
   link: 'https://blog.sunbk201.site/',
-  description: 'Welcome!',
+  description: 'Welcome !',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -19,7 +19,7 @@ const BLOG = {
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: 'https://twitter.com/sunbk201',
   seo: {
-    keywords: ['SunBK201', 'Blog', 'Website'],
+    keywords: ['SunBK201', 'Blog', '网络', 'Network', '校园网', '计算机', '软件', 'OpenWrt', 'C', 'Linux', 'Unix'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
