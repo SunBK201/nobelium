@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'SunBK201_Blog',
   author: 'SunBK201',
-  email: 'sunbk201@sunbk201.com',
+  email: 'sunbk201gm@gmail.com',
   link: 'https://blog.sunbk201.site/',
   description: 'Welcome !',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
