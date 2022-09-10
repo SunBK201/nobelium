@@ -1,6 +1,6 @@
 const BLOG = {
   title: 'SunBK201_Blog',
-  author: 'Ushiromiya',
+  author: 'SunBK201',
   email: 'sunbk201@sunbk201.com',
   link: 'https://blog.sunbk201.site/',
   description: 'Welcome to SunBK201_Blog.',
