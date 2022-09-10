@@ -1,8 +1,8 @@
 const BLOG = {
   title: 'SunBK201_Blog',
-  author: 'SunBK201',
-  email: 'sunbk201gm@gmail.com',
-  link: 'https://www.sunbk201.com',
+  author: 'Ushiromiya',
+  email: 'sunbk201@sunbk201.com',
+  link: 'https://blog.sunbk201.site/',
   description: 'Welcome to SunBK201_Blog.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
