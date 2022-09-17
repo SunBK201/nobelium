@@ -20,7 +20,7 @@ const BLOG = {
   socialLink: 'https://twitter.com/sunbk201',
   seo: {
     keywords: ['SunBK201', 'Blog', '网络', 'Network', '校园网', '计算机', '软件', 'OpenWrt', 'C', 'Linux', 'Unix'],
-    googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
+    googleSiteVerification: 'mwIadlLEmbRCVNYTTw_cSRZ56kc_UaF13fImN6kLJZQ' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
   notionAccessToken: process.env.NOTION_ACCESS_TOKEN, // Useful if you prefer not to make your database public
